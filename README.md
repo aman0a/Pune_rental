@@ -1,3 +1,5 @@
+DATASET LINK : https://www.kaggle.com/datasets/epigos/ghana-house-rental-dataset
+
 Pune Rental Price Prediction using Machine Learning
 Overview
 This project focuses on predicting rental prices for residential properties in Pune, India, using machine learning algorithms. The dataset contains 22,801 rental listings with various features like property type, location, number of bedrooms, area, and furnishing type. After training several machine learning models, Random Forest emerged as the most accurate model for predicting rental prices, outperforming other models such as XGBoost, CatBoost, Support Vector Regression (SVR), and Linear Regression.
